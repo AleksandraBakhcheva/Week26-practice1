@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Week26-practice1/static/css/main.65d9c6d8.css",
+    "main.css": "/Week26-practice1/static/css/main.3388ceab.css",
     "main.js": "/Week26-practice1/static/js/main.5d2da732.js",
     "index.html": "/Week26-practice1/index.html",
-    "main.65d9c6d8.css.map": "/Week26-practice1/static/css/main.65d9c6d8.css.map",
+    "main.3388ceab.css.map": "/Week26-practice1/static/css/main.3388ceab.css.map",
     "main.5d2da732.js.map": "/Week26-practice1/static/js/main.5d2da732.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d9c6d8.css",
+    "static/css/main.3388ceab.css",
     "static/js/main.5d2da732.js"
   ]
 }

@@ -1,0 +1,2 @@
+@import url(https://necolas.github.io/normalize.css/latest/normalize.css);h1{color:brown;text-align:center}.container{display:grid;font-family:Cambria,Cochin,Georgia,Times,Times New Roman,serif;grid-template-columns:repeat(3,1fr);grid-template-rows:1fr;margin:0 0 0 3%}.picture{width:100%}.superhero__card{width:90%}@media screen and (max-width:768px){.container{grid-template-columns:1fr;margin:0 0 0 7%}}
+/*# sourceMappingURL=main.3388ceab.css.map*/
